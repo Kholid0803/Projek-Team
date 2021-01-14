@@ -286,20 +286,6 @@ float: right;
     text-align: left;
 }
 
-/* Footer */
-footer {
-    padding-top : 30px;
-  }
-  
-  footer img{
-    width : 124px;
-  }
-  
-  footer p {
-    color : #b3aeb5;
-    font-size : 12px;
-  }
-
 /* Responsive */
 /* Ukuran Tablet */
 @media screen and (max-width: 1000px) {
